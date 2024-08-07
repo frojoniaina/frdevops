@@ -1,1 +1,1 @@
-alert('Alerte coockies');
+// alert('Alerte coockies');
